@@ -1,0 +1,5 @@
+For the first workshop for OOP244, it let me get more familiar with the C++ language. It is different from the IPC we had last semester. 
+
+What I get much more familiar is modular programming, although we have it last semester in IPC, but I can't separate different parts into different implementation files or header files precisely. In this workshop, I put the code related to the movie only into movie.cpp and the code related to the data files only into file.cpp. This practice made me go further on modular programming.
+
+The most difficult part for me in this workshop is which file I should include in front of the code. For instance, I was confused about #ifndef #define #endif #include<iostream>, where should I put them, also about namespace, these concepts are new to me, it took me a long time to figure out which one I should use in a header file, and which one I should use in the implementation file and how to use them.

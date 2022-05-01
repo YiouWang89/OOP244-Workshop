@@ -1,0 +1,3 @@
+For Workshop 5, first I spent more time on the study note and the lecture's recording, I would like to master the concept of construction and destruction. I believe that Fardad did a great job on how to explain the abstract concepts. With the lecture and the exercise during the lecture, the construction can not be called were in my mind firmly. Also, I remember that with the construction, the object will be created by default. All these points are very helpful for this workshop.
+
+The only problem I met in this workshop is the input 'cin', I still confuse about the get, getline, ignore, and clear, so I checked the lecture about cout and cin few weeks ago, and then I solved the problem perfectly.

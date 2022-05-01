@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: DIY5, Configuration: Debug Win32 ------
+1>Mark.cpp
+1>DIY5.vcxproj -> \\Mac\Home\Desktop\New Folder\OOP244\WS05\DIY\DIY5\Debug\DIY5.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

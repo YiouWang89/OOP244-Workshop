@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: lab3, Configuration: Debug Win32 ------
+1>Subject.cpp
+1>lab3.vcxproj -> \\Mac\Home\Desktop\New Folder\OOP244\WS03\lab\lab3\Debug\lab3.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

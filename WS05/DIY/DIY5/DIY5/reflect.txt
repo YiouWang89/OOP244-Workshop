@@ -1,0 +1,2 @@
+For Workshop5 the most difficult thing for me is to make myself clear about every operator and their overloading. For instance, I declare that operator int will return an integer number about the mark when I need the mark in other operator or other function, I always forget that there is an operator which can be used. 
+I was confused about the operator overloading and the helper, which needs only one parameter and the helper need two parameters. With the exercise of this workshop, from both the lab part and the DIY part, both make me more clear about this.

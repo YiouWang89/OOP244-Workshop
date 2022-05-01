@@ -1,0 +1,9 @@
+For workshop2, I learn the concept of function overloading, reference and dynamic memory.
+
+When studying based on the study note and watch the recording for the lecture all the concepts look easy to understand. However, things were getting hard when I try to use them by myself when I was doing the workshop.
+
+I take time on the reference. At the very first beginning, for the read overloading function, I used both pointers to solve the problem as I am more familiar with pointer than the reference. According to the instruction for this workshop, I should use reference, so I decided to change the pointer to reference, but I don't know where should I put '&'. Both the read function passes the value perfectly to the parameter. However, I just cannot assign those values to the variable after I call the read function, it seems didn't store in that parameter at all. I check the study note and recording several times then I figure out I should put that '&' after the type of parameter. I feel excited after I finally solved it, it cost me almost half an hour.
+
+Another problem I meet was at the time when I try to submit the work, the matrix indicated that although my output is correct, there was a memory leak. I used delete [] students at the bottom of the code, I believe this statement deletes all the memory I allocate to the array. Obviously, I was wrong, so I check my code and find I allocate new memory for two different arrays, one is the students, another is the name for the student, so I have to delete it too.
+
+This workshop is really helpful, I am get more clear about refernce and dynamic memory.

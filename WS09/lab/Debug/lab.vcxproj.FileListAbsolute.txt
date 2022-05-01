@@ -1,0 +1,2 @@
+\\Mac\Home\Desktop\New Folder\OOP244\WS09\lab\Debug\lab.exe
+\\Mac\Home\Desktop\New Folder\OOP244\WS09\lab\Debug\lab.pdb
